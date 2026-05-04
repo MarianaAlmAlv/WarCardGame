@@ -89,7 +89,7 @@ Contient la logique métier pure :
 
 ##  Fonctionnalités
 
-### ✔ Jeu
+###  Jeu
 - Initialisation avec N joueurs (2 à 4)
 - Mélange et distribution automatique
 - Mode manuel (tour par tour)
